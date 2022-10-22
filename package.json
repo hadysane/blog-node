@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.6.7",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.20"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "name": "blog-node",
+  "description": "blog ",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hadysane/blog-node.git"
+  },
+  "author": "Hady sané",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hadysane/blog-node/issues"
+  },
+  "homepage": "https://github.com/hadysane/blog-node#readme"
+}
